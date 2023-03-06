@@ -1,5 +1,3 @@
-
-//
 $(document).ready(function() {
 			$('#fullpage').fullpage({
 				'verticalCentered': false,
@@ -17,3 +15,4 @@ $(function()
     new WOW().init();
     $(".rotate").textrotator();
 })
+
